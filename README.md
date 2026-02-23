@@ -288,4 +288,4 @@ Contributions welcome! Follow existing code style and add tests.
 
 ---
 
-**Built with 🎵 for music creators and AI enthusiasts**
+**Built with MurMurLove 🎵 for music creators and AI enthusiasts**
