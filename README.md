@@ -4,7 +4,7 @@
 ## System Overview
 
 Prompt
-
+   ↓
 God Agent
    ↓
 Composer Agent → Arrangement Agent → Voice Agent
