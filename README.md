@@ -1,3 +1,4 @@
+⭐ Star the repo if you want to see MurMur grow.
 # MURMUR : A Learning Constellation
 
 Multi-agent AI system for generative music, analysis, and creative orchestration.
