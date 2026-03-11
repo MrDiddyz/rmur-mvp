@@ -1,19 +1,26 @@
 # MurMur Architecture
 
-MurMur is a multi-agent creative system.
+MurMur operates as a constellation of specialized agents.
 
-Agents:
+At the center is the **MurMur Spectre Agent**.
 
-Composer Agent
-Arrangement Agent
-Voice Agent
-Training Agent
-Inference Agent
+The Spectre Agent:
 
-Coordinator:
-
-God Agent
+- receives prompts
+- distributes tasks
+- coordinates agent collaboration
+- evaluates outputs
 
 Pipeline:
 
-Prompt → Agents → Composition → Output
+Prompt
+ ↓
+Spectre Agent
+ ↓
+Composer Agent
+ ↓
+Arrangement Agent
+ ↓
+Voice Agent
+ ↓
+Output
