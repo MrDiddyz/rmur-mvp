@@ -8,6 +8,9 @@ on:
     paths:
       - 'course-chatgpt-for-grundere/**'
 
+permissions:
+  contents: read
+
 jobs:
   content-check:
     runs-on: ubuntu-latest
