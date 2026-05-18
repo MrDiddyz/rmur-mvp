@@ -1,0 +1,19 @@
+name: Course Content Check
+
+on:
+  pull_request:
+    paths:
+      - 'course-chatgpt-for-grundere/**'
+  push:
+    paths:
+      - 'course-chatgpt-for-grundere/**'
+
+jobs:
+  content-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate course structure and frontmatter
+        run: |
+          chmod +x course-chatgpt-for-grundere/automation/content-check.sh
+          course-chatgpt-for-grundere/automation/content-check.sh
