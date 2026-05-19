@@ -1,0 +1,19 @@
+{
+  "course": "ChatGPT for Gründere",
+  "version": "1.0.0",
+  "language": "no",
+  "modules": [
+    {
+      "id": "modul-01",
+      "slug": "strategisk-grunnmur",
+      "title": "Strategisk grunnmur",
+      "status": "published"
+    },
+    {
+      "id": "modul-02",
+      "slug": "ai-innholdsengine",
+      "title": "AI innholdsengine",
+      "status": "published"
+    }
+  ]
+}
